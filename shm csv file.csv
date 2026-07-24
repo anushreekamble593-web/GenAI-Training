@@ -1,0 +1,101 @@
+Bridge_ID,Bridge_Name,Location,Bridge_Type,Age_Years,Crack_Width_mm,Deflection_mm,Vibration_Hz,Inspection_Result,Risk_Ranking,Maintenance_Priority,Next_Inspection
+BR001,Bridge 1,Pune,RCC Slab,25,1.43,30,7.4,Critical,Very High,Immediate,1 Month
+BR002,Bridge 2,Nashik,RCC Girder,11,0.61,8,9,Satisfactory,Medium,Preventive,6 Months
+BR003,Bridge 3,Wardha,Steel Girder,10,0.71,9,4.9,Poor,High,Major Repair,3 Months
+BR004,Bridge 4,Amravati,RCC Girder,8,1.26,12,9.2,Critical,Very High,Immediate,1 Month
+BR005,Bridge 5,Mumbai,Steel Truss,30,0.17,19,3.8,Satisfactory,Medium,Preventive,6 Months
+BR006,Bridge 6,Wardha,PSC Box Girder,31,0.3,12,6.9,Good,Low,Routine,12 Months
+BR007,Bridge 7,Wardha,RCC Girder,11,0.91,17,5.7,Poor,High,Major Repair,3 Months
+BR008,Bridge 8,Satara,Steel Truss,8,0.97,36,7.6,Critical,Very High,Immediate,1 Month
+BR009,Bridge 9,Nashik,PSC Box Girder,34,0.92,34,5.7,Critical,Very High,Immediate,1 Month
+BR010,Bridge 10,Kolhapur,Steel Girder,20,0.21,24,6.7,Poor,High,Major Repair,3 Months
+BR011,Bridge 11,Satara,PSC Box Girder,23,0.95,9,4.2,Poor,High,Major Repair,3 Months
+BR012,Bridge 12,Pune,RCC Slab,26,0.31,36,6,Critical,Very High,Immediate,1 Month
+BR013,Bridge 13,Amravati,Steel Girder,25,0.58,27,7.1,Poor,High,Major Repair,3 Months
+BR014,Bridge 14,Pune,RCC Girder,9,1.28,22,6.3,Critical,Very High,Immediate,1 Month
+BR015,Bridge 15,Satara,Steel Truss,24,1.01,33,5.2,Critical,Very High,Immediate,1 Month
+BR016,Bridge 16,Pune,Steel Girder,6,1.42,27,4.5,Critical,Very High,Immediate,1 Month
+BR017,Bridge 17,Nashik,Steel Girder,8,0.41,23,4.3,Poor,High,Major Repair,3 Months
+BR018,Bridge 18,Akola,Steel Girder,30,1.38,36,4,Critical,Very High,Immediate,1 Month
+BR019,Bridge 19,Wardha,Steel Truss,40,0.49,13,8.4,Satisfactory,Medium,Preventive,6 Months
+BR020,Bridge 20,Mumbai,RCC Girder,31,1.48,29,9.2,Critical,Very High,Immediate,1 Month
+BR021,Bridge 21,Amravati,PSC Box Girder,16,0.31,19,3.6,Satisfactory,Medium,Preventive,6 Months
+BR022,Bridge 22,Kolhapur,RCC Slab,21,0.49,14,6,Satisfactory,Medium,Preventive,6 Months
+BR023,Bridge 23,Nagpur,Steel Girder,25,1.43,37,9.2,Critical,Very High,Immediate,1 Month
+BR024,Bridge 24,Akola,Steel Girder,40,0.65,30,5.9,Poor,High,Major Repair,3 Months
+BR025,Bridge 25,Pune,Steel Truss,8,0.37,18,6.1,Satisfactory,Medium,Preventive,6 Months
+BR026,Bridge 26,Kolhapur,RCC Slab,8,0.24,14,6.7,Satisfactory,Medium,Preventive,6 Months
+BR027,Bridge 27,Mumbai,Steel Truss,6,0.2,18,7.2,Satisfactory,Medium,Preventive,6 Months
+BR028,Bridge 28,Akola,Steel Girder,27,0.94,35,4.2,Critical,Very High,Immediate,1 Month
+BR029,Bridge 29,Kolhapur,Steel Truss,35,0.78,10,4.4,Poor,High,Major Repair,3 Months
+BR030,Bridge 30,Nashik,RCC Slab,35,1.26,15,6.6,Critical,Very High,Immediate,1 Month
+BR031,Bridge 31,Wardha,Steel Truss,28,0.31,39,9,Critical,Very High,Immediate,1 Month
+BR032,Bridge 32,Mumbai,Steel Truss,10,1.07,21,6.6,Critical,Very High,Immediate,1 Month
+BR033,Bridge 33,Nashik,RCC Slab,19,0.85,37,5.5,Critical,Very High,Immediate,1 Month
+BR034,Bridge 34,Nashik,PSC Box Girder,17,1.23,30,7.9,Critical,Very High,Immediate,1 Month
+BR035,Bridge 35,Aurangabad,Steel Girder,38,0.79,6,9.4,Poor,High,Major Repair,3 Months
+BR036,Bridge 36,Kolhapur,Steel Truss,21,0.37,27,6.2,Poor,High,Major Repair,3 Months
+BR037,Bridge 37,Kolhapur,PSC Box Girder,10,0.41,19,6.3,Satisfactory,Medium,Preventive,6 Months
+BR038,Bridge 38,Kolhapur,RCC Girder,35,0.97,5,6.4,Poor,High,Major Repair,3 Months
+BR039,Bridge 39,Mumbai,Steel Girder,12,1.37,17,6.4,Critical,Very High,Immediate,1 Month
+BR040,Bridge 40,Pune,PSC Box Girder,26,0.22,30,6.3,Poor,High,Major Repair,3 Months
+BR041,Bridge 41,Akola,PSC Box Girder,15,1.49,6,4.4,Critical,Very High,Immediate,1 Month
+BR042,Bridge 42,Wardha,PSC Box Girder,35,1.02,27,4.4,Critical,Very High,Immediate,1 Month
+BR043,Bridge 43,Mumbai,Steel Girder,6,0.12,11,6.7,Good,Low,Routine,12 Months
+BR044,Bridge 44,Nashik,Steel Truss,17,1.26,18,3.7,Critical,Very High,Immediate,1 Month
+BR045,Bridge 45,Satara,PSC Box Girder,37,0.44,25,5.1,Poor,High,Major Repair,3 Months
+BR046,Bridge 46,Amravati,RCC Slab,8,1.37,27,8.9,Critical,Very High,Immediate,1 Month
+BR047,Bridge 47,Mumbai,RCC Slab,31,1.26,37,4.3,Critical,Very High,Immediate,1 Month
+BR048,Bridge 48,Amravati,RCC Girder,37,0.13,33,8.2,Critical,Very High,Immediate,1 Month
+BR049,Bridge 49,Pune,RCC Slab,14,0.34,35,7.2,Critical,Very High,Immediate,1 Month
+BR050,Bridge 50,Akola,RCC Girder,8,0.56,38,6.7,Critical,Very High,Immediate,1 Month
+BR051,Bridge 51,Pune,RCC Slab,40,0.18,17,5.2,Satisfactory,Medium,Preventive,6 Months
+BR052,Bridge 52,Amravati,RCC Slab,33,0.89,9,6.2,Poor,High,Major Repair,3 Months
+BR053,Bridge 53,Wardha,Steel Girder,37,0.38,22,6.2,Satisfactory,Medium,Preventive,6 Months
+BR054,Bridge 54,Aurangabad,RCC Slab,37,1.42,38,8.8,Critical,Very High,Immediate,1 Month
+BR055,Bridge 55,Satara,Steel Girder,17,1.28,13,6,Critical,Very High,Immediate,1 Month
+BR056,Bridge 56,Nashik,Steel Truss,25,0.2,20,6.1,Satisfactory,Medium,Preventive,6 Months
+BR057,Bridge 57,Kolhapur,PSC Box Girder,12,1.36,14,9.1,Critical,Very High,Immediate,1 Month
+BR058,Bridge 58,Pune,Steel Girder,21,1.34,34,4.8,Critical,Very High,Immediate,1 Month
+BR059,Bridge 59,Satara,RCC Slab,36,0.33,19,4.5,Satisfactory,Medium,Preventive,6 Months
+BR060,Bridge 60,Pune,Steel Truss,30,0.57,17,5.6,Satisfactory,Medium,Preventive,6 Months
+BR061,Bridge 61,Nagpur,Steel Girder,6,0.57,34,6.1,Critical,Very High,Immediate,1 Month
+BR062,Bridge 62,Pune,RCC Girder,26,0.82,23,6.6,Poor,High,Major Repair,3 Months
+BR063,Bridge 63,Aurangabad,RCC Girder,19,1.46,11,4,Critical,Very High,Immediate,1 Month
+BR064,Bridge 64,Aurangabad,Steel Girder,16,0.48,13,8.4,Satisfactory,Medium,Preventive,6 Months
+BR065,Bridge 65,Kolhapur,RCC Girder,14,0.85,37,6.9,Critical,Very High,Immediate,1 Month
+BR066,Bridge 66,Pune,Steel Truss,22,0.18,16,6.1,Satisfactory,Medium,Preventive,6 Months
+BR067,Bridge 67,Nashik,RCC Girder,6,0.99,21,4,Poor,High,Major Repair,3 Months
+BR068,Bridge 68,Wardha,Steel Girder,21,1.31,34,3.6,Critical,Very High,Immediate,1 Month
+BR069,Bridge 69,Nashik,RCC Girder,22,0.97,7,6.7,Poor,High,Major Repair,3 Months
+BR070,Bridge 70,Aurangabad,Steel Truss,15,0.47,16,4.7,Satisfactory,Medium,Preventive,6 Months
+BR071,Bridge 71,Mumbai,Steel Truss,38,1.16,23,6.2,Critical,Very High,Immediate,1 Month
+BR072,Bridge 72,Nagpur,RCC Slab,27,1.23,21,3.7,Critical,Very High,Immediate,1 Month
+BR073,Bridge 73,Akola,RCC Girder,40,1.47,37,6.3,Critical,Very High,Immediate,1 Month
+BR074,Bridge 74,Satara,RCC Slab,32,1.02,39,8.5,Critical,Very High,Immediate,1 Month
+BR075,Bridge 75,Mumbai,Steel Girder,24,1.06,19,5.6,Critical,Very High,Immediate,1 Month
+BR076,Bridge 76,Aurangabad,Steel Girder,27,1.47,13,3.6,Critical,Very High,Immediate,1 Month
+BR077,Bridge 77,Aurangabad,RCC Slab,15,0.18,29,8.7,Poor,High,Major Repair,3 Months
+BR078,Bridge 78,Mumbai,Steel Truss,20,1.07,7,6.3,Critical,Very High,Immediate,1 Month
+BR079,Bridge 79,Wardha,Steel Truss,33,0.11,28,9.3,Poor,High,Major Repair,3 Months
+BR080,Bridge 80,Mumbai,RCC Girder,20,0.15,24,4.8,Poor,High,Major Repair,3 Months
+BR081,Bridge 81,Nashik,PSC Box Girder,26,0.63,35,5.2,Critical,Very High,Immediate,1 Month
+BR082,Bridge 82,Pune,PSC Box Girder,37,1.19,10,5.1,Critical,Very High,Immediate,1 Month
+BR083,Bridge 83,Aurangabad,PSC Box Girder,30,0.92,30,3.6,Poor,High,Major Repair,3 Months
+BR084,Bridge 84,Mumbai,RCC Slab,10,0.92,38,8.6,Critical,Very High,Immediate,1 Month
+BR085,Bridge 85,Amravati,PSC Box Girder,29,1.17,36,4.4,Critical,Very High,Immediate,1 Month
+BR086,Bridge 86,Wardha,PSC Box Girder,7,1.25,37,7.3,Critical,Very High,Immediate,1 Month
+BR087,Bridge 87,Amravati,PSC Box Girder,38,1.15,6,8.5,Critical,Very High,Immediate,1 Month
+BR088,Bridge 88,Pune,Steel Girder,10,0.14,13,7.3,Satisfactory,Medium,Preventive,6 Months
+BR089,Bridge 89,Nashik,Steel Girder,33,0.88,6,7.3,Poor,High,Major Repair,3 Months
+BR090,Bridge 90,Wardha,RCC Slab,21,0.1,9,8,Good,Low,Routine,12 Months
+BR091,Bridge 91,Akola,Steel Truss,10,1.02,9,8,Critical,Very High,Immediate,1 Month
+BR092,Bridge 92,Nashik,PSC Box Girder,9,1.28,20,7.9,Critical,Very High,Immediate,1 Month
+BR093,Bridge 93,Aurangabad,RCC Girder,34,0.79,29,4,Poor,High,Major Repair,3 Months
+BR094,Bridge 94,Aurangabad,RCC Slab,17,0.21,14,5.5,Satisfactory,Medium,Preventive,6 Months
+BR095,Bridge 95,Pune,PSC Box Girder,13,0.12,8,6.4,Good,Low,Routine,12 Months
+BR096,Bridge 96,Akola,Steel Girder,36,0.51,38,5.2,Critical,Very High,Immediate,1 Month
+BR097,Bridge 97,Pune,Steel Girder,12,1.49,40,4.7,Critical,Very High,Immediate,1 Month
+BR098,Bridge 98,Akola,Steel Truss,6,0.51,9,8.4,Satisfactory,Medium,Preventive,6 Months
+BR099,Bridge 99,Pune,PSC Box Girder,29,0.39,18,3.9,Satisfactory,Medium,Preventive,6 Months
+BR100,Bridge 100,Wardha,Steel Truss,38,0.47,28,4.3,Poor,High,Major Repair,3 Months
